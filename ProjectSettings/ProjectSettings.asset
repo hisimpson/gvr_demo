@@ -511,7 +511,8 @@ PlayerSettings:
   - iOS::VR::enabledDevices
   - tvOS::VR::enabledDevices
   Android::VR::enabledDevices:
-  - daydream
+  - None
+  - cardboard
   Metro::VR::enabledDevices: []
   N3DS::VR::enabledDevices: []
   PS3::VR::enabledDevices: []
